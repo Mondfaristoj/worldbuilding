@@ -1,6 +1,6 @@
 - World
 - People
 - Events
-- Stories
-- Misc
-- WIP
+- [[Stories]]
+- [[Misc]]
+- [[WIP]]
