@@ -1,2 +1,3 @@
-- ### Magic
--
+- ### Magic / hog talking
+	-
+	-
