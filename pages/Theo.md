@@ -3,5 +3,5 @@
 	- You have to **learn** it
 	- Mind over matter, magic works because of a supernatural connection between the user and the object affected.
 	- Anything is possible
-	- There ar
+	- Easy things are really easy, and it gets very hard very fast after that.
 	-
