@@ -1,5 +1,6 @@
 - ### Magic / hog talking
 	- It's hereditary
 	- You have to **learn** it
+	- Mind over matter, magic works because of a supernatural connection between the user and the object affected.
 	-
 	-
