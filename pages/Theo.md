@@ -5,4 +5,4 @@
 	- Anything is possible.
 	- Easy things are really easy, and it gets very hard very fast after that.
 - ### Stuff I'd like to put somewhere
-	- A group of people that lives in the mountains and never
+	- A group of people that lives in the mountains and never talks to anybody, creating this kind of mysterious cult.
