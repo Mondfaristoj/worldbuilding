@@ -4,3 +4,5 @@
 	- Mind over matter, magic works because of a supernatural connection between the user and the object affected. Kind of meditating, but weirder because I don't know how to make it make sense anyways, it's magic!
 	- Anything is possible.
 	- Easy things are really easy, and it gets very hard very fast after that.
+- ### Stuff I'd like to put somewhere
+	-
