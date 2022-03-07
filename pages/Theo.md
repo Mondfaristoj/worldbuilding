@@ -1,3 +1,5 @@
 - ### Magic / hog talking
+	- It's hereditary
+	- You have to **learn** it
 	-
 	-
