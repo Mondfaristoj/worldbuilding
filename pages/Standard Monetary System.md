@@ -1,4 +1,9 @@
 - The SMS follows some simple outlines:
 	- Tokens are indivisible and of equal value.
 	- Tokens can only be released by [Insert Some Organization]
-	-
+	- Tokens may be of one of the following materials:
+		- Gold
+		- Steel ()
+		- Iron
+		- Rock
+		- (Or whichever ones you'd like IDK)
