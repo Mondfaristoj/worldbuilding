@@ -3,4 +3,4 @@
 - Extra information:
 	- Population: Around 400 people.
 - # Monetary system
-	- TODO
+	- NOW Finish this.
