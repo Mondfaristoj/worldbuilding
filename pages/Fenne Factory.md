@@ -1,2 +1,2 @@
+- #money
 - The Fenne Factory is a monetary organism managed by the [[Fenne Family]]
--
