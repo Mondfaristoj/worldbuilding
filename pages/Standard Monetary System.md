@@ -1,3 +1,3 @@
 - The SMS follows some simple outlines:
-	- Tokens are indivisible and of equal value, no matter the physical aspect.
+	- Tokens are indivisible and of equal value.
 	-
