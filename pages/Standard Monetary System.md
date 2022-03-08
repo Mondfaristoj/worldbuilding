@@ -2,6 +2,7 @@
 	- Tokens are indivisible and of equal value.
 	- Tokens can only be manufactured by [Insert Some Organization]
 	- Tokens may be of one of the following materials:
+	  id:: 6226b74f-ddb0-4917-b004-41f32032303c
 		- Gold
 		- Steel (When was steel invented? Is it realistic if this society has steel? lol)
 		- Iron
