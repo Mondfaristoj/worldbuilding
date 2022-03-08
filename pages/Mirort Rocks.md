@@ -3,4 +3,4 @@
 - Extra information:
 	- Population: Around 400 people.
 - # Monetary system
-	- NOW Finish this.
+	- Mirort Rocks uses the [[Standard Monetary System]]
